@@ -403,22 +403,6 @@
         "gram": "100g"
       },
       {
-        "name": "Bagea kw 1",
-        "calories": 416,
-        "proteins": 6.5,
-        "fat": 9.4,
-        "carbohydrate": 76.3,
-        "gram": "100g"
-      },
-      {
-        "name": "Bagea kw 2",
-        "calories": 382,
-        "proteins": 0.3,
-        "fat": 3.5,
-        "carbohydrate": 87.2,
-        "gram": "100g"
-      },
-      {
         "name": "Baje",
         "calories": 129,
         "proteins": 1.9,
@@ -731,7 +715,7 @@
         "gram": "100g"
       },
       {
-        "name": "Belutlaut segar",
+        "name": "Belut laut segar",
         "calories": 93,
         "proteins": 12.8,
         "fat": 1.5,
@@ -747,7 +731,7 @@
         "gram": "100g"
       },
       {
-        "name": "Bentul (Komba)  talas segar",
+        "name": "Bentul (Komba) talas segar",
         "calories": 98,
         "proteins": 1.6,
         "fat": 0.7,
@@ -787,7 +771,7 @@
         "gram": "100g"
       },
       {
-        "name": "Beras Giling masak (nasi) ",
+        "name": "Beras Giling masak (nasi)",
         "calories": 178,
         "proteins": 2.1,
         "fat": 0.1,
@@ -1091,7 +1075,7 @@
         "gram": "100g"
       },
       {
-        "name": "Bika Ambon ",
+        "name": "Bika Ambon",
         "calories": 225.7,
         "proteins": 3,
         "fat": 0.3,
@@ -1187,7 +1171,7 @@
         "gram": "100g"
       },
       {
-        "name": "Brondong ",
+        "name": "Brondong",
         "calories": 400,
         "proteins": 4,
         "fat": 0.7,
@@ -1243,7 +1227,7 @@
         "gram": "100g"
       },
       {
-        "name": "Buah merah",
+        "name": "Buah merah papua",
         "calories": 87,
         "proteins": 2.6,
         "fat": 2.7,
@@ -1264,14 +1248,6 @@
         "proteins": 0.8,
         "fat": 1,
         "carbohydrate": 10.9,
-        "gram": "100g"
-      },
-      {
-        "name": "Buah negri segar",
-        "calories": 55,
-        "proteins": 1.2,
-        "fat": 0.1,
-        "carbohydrate": 12.2,
         "gram": "100g"
       },
       {
@@ -1323,7 +1299,7 @@
         "gram": "100g"
       },
       {
-        "name": "Bubur ",
+        "name": "Bubur",
         "calories": 60,
         "proteins": 1,
         "fat": 0.6,
@@ -1451,7 +1427,7 @@
         "gram": "100g"
       },
       {
-        "name": "Buras ",
+        "name": "Buras",
         "calories": 125.7,
         "proteins": 3.3,
         "fat": 1.9,
@@ -3027,7 +3003,7 @@
         "gram": "100g"
       },
       {
-        "name": "Gudeg ",
+        "name": "Gudeg",
         "calories": 53,
         "proteins": 1.6,
         "fat": 1.6,
@@ -4339,7 +4315,7 @@
         "gram": "100g"
       },
       {
-        "name": "Jam selai",
+        "name": "Jam, selai(jam)",
         "calories": 239,
         "proteins": 0.5,
         "fat": 0.6,
@@ -4507,7 +4483,7 @@
         "gram": "100g"
       },
       {
-        "name": "Jenang ",
+        "name": "Jenang",
         "calories": 381.7,
         "proteins": 9.5,
         "fat": 9.5,
@@ -10120,14 +10096,6 @@
         "proteins": 33.1,
         "fat": 3.6,
         "carbohydrate": 6.6,
-        "gram": "100g"
-      },
-      {
-        "name": "Terasi Merah",
-        "calories": 174,
-        "proteins": 30,
-        "fat": 3.5,
-        "carbohydrate": 3.5,
         "gram": "100g"
       },
       {
