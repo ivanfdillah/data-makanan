@@ -25,23 +25,7 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Akar tonjong segar",
-      "gram": "100g",
-      "kalori": 45,
-      "protein": 1.1,
-      "lemak": 0.4,
-      "karbohidrat": 10.8
-    },
-    {
-      "nama": "Aletoge segar",
-      "gram": "100g",
-      "kalori": 37,
-      "protein": 4.4,
-      "lemak": 0.5,
-      "karbohidrat": 3.8
-    },
-    {
-      "nama": "Alpukat segar",
+      "nama": "Alpukat",
       "gram": "100g",
       "kalori": 85,
       "protein": 0.9,
@@ -89,7 +73,7 @@
       "karbohidrat": 14.9
     },
     {
-      "nama": "Apel malang segar",
+      "nama": "Apel malang",
       "gram": "100g",
       "kalori": 57,
       "protein": 0.5,
@@ -113,23 +97,7 @@
       "karbohidrat": 11.2
     },
     {
-      "nama": "Arrowroot segar",
-      "gram": "100g",
-      "kalori": 102,
-      "protein": 1,
-      "lemak": 0.2,
-      "karbohidrat": 24.1
-    },
-    {
-      "nama": "Arwan sirsir",
-      "gram": "100g",
-      "kalori": 277,
-      "protein": 2.4,
-      "lemak": 25,
-      "karbohidrat": 10.7
-    },
-    {
-      "nama": "Asam kandis segar",
+      "nama": "Asam kandis",
       "gram": "100g",
       "kalori": 75,
       "protein": 0.2,
@@ -137,23 +105,7 @@
       "karbohidrat": 16.1
     },
     {
-      "nama": "Asam masak di pohon",
-      "gram": "100g",
-      "kalori": 239,
-      "protein": 2.8,
-      "lemak": 0.6,
-      "karbohidrat": 62.5
-    },
-    {
-      "nama": "Asam payak segar",
-      "gram": "100g",
-      "kalori": 135,
-      "protein": 0.8,
-      "lemak": 0.4,
-      "karbohidrat": 32.1
-    },
-    {
-      "nama": "Asan kandis kering",
+      "nama": "Asam kandis kering",
       "gram": "100g",
       "kalori": 261,
       "protein": 0.9,
@@ -177,7 +129,7 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Ayam  goreng Kentucky sayap",
+      "nama": "Ayam goreng Kentucky sayap",
       "gram": "100g",
       "kalori": 297,
       "protein": 35.9,
@@ -305,7 +257,7 @@
       "karbohidrat": 1.6
     },
     {
-      "nama": "Ayam taliwang masakan",
+      "nama": "Ayam taliwang goreng",
       "gram": "100g",
       "kalori": 264,
       "protein": 18.2,
