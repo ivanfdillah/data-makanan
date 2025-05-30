@@ -103,6 +103,14 @@
       "protein": 3.9,
       "lemak": 2.6,
       "karbohidrat": 14.8
+    },   
+    {
+      "nama": "Ayam geprek",
+      "gram": "100g",
+      "kalori": 263,
+      "protein": 17.61,
+      "lemak": 17.99,
+      "karbohidrat": 7.6
     },
     {
       "nama": "Ayam goreng Dada (tanpa kulit)",
@@ -145,7 +153,7 @@
       "karbohidrat": 11.04
     },
     {
-      "nama": "Ayam goreng KFC sayap",
+      "nama": "Ayam goreng tepung sayap",
       "gram": "100g",
       "kalori": 297,
       "protein": 35.9,
@@ -256,6 +264,14 @@
       "protein": 35.7,
       "lemak": 14.3,
       "karbohidrat": 0.5
+    },
+    {
+      "nama": "Ayam penyet",
+      "gram": "100g",
+      "kalori": 199,
+      "protein": 25,
+      "lemak": 8.53,
+      "karbohidrat": 5.30
     },
     {
       "nama": "Ayam taliwang goreng",
