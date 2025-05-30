@@ -33,14 +33,6 @@
       "karbohidrat": 7.7
     },
     {
-      "nama": "Ampas kacang hijau",
-      "gram": "100g",
-      "kalori": 96,
-      "protein": 3.7,
-      "lemak": 0.6,
-      "karbohidrat": 19.1
-    },
-    {
       "nama": "Ampas Tahu",
       "gram": "100g",
       "kalori": 414,
@@ -55,14 +47,6 @@
       "protein": 4.1,
       "lemak": 2.1,
       "karbohidrat": 10.7
-    },
-    {
-      "nama": "Ampas tahu mentah",
-      "gram": "100g",
-      "kalori": 67,
-      "protein": 5,
-      "lemak": 2.1,
-      "karbohidrat": 8.1
     },
     {
       "nama": "Apel",
@@ -121,15 +105,47 @@
       "karbohidrat": 14.8
     },
     {
-      "nama": "Ayam",
+      "nama": "Ayam goreng Dada (tanpa kulit)",
       "gram": "100g",
-      "kalori": 302,
-      "protein": 18.2,
-      "lemak": 25,
+      "kalori": 164,
+      "protein": 30.7,
+      "lemak": 3.54,
       "karbohidrat": 0
     },
     {
-      "nama": "Ayam goreng Kentucky sayap",
+      "nama": "Ayam goreng Dada",
+      "gram": "100g",
+      "kalori": 110,
+      "protein": 23.09,
+      "lemak": 1.24,
+      "karbohidrat": 0
+    },
+    {
+      "nama": "Ayam rebus Dada (tanpa kulit)",
+      "gram": "100g",
+      "kalori": 150,
+      "protein": 28.7,
+      "lemak": 3,
+      "karbohidrat": 0
+    },
+    {
+      "nama": "Ayam goreng paha",
+      "gram": "100g",
+      "kalori": 287,
+      "protein": 31,
+      "lemak": 15.7,
+      "karbohidrat": 1.7
+    },
+    {
+      "nama": "Ayam goreng sayap",
+      "gram": "100g",
+      "kalori": 326,
+      "protein": 20.11,
+      "lemak": 21.8,
+      "karbohidrat": 11.04
+    },
+    {
+      "nama": "Ayam goreng KFC sayap",
       "gram": "100g",
       "kalori": 297,
       "protein": 35.9,
@@ -137,7 +153,7 @@
       "karbohidrat": 1.6
     },
     {
-      "nama": "Ayam ampela goreng",
+      "nama": "Ampela ayam goreng",
       "gram": "100g",
       "kalori": 270,
       "protein": 32.3,
@@ -169,6 +185,14 @@
       "karbohidrat": 1.3
     },
     {
+      "nama": "Ayam goreng KFC Dada",
+      "gram": "100g",
+      "kalori": 520,
+      "protein": 36,
+      "lemak": 34,
+      "karbohidrat": 18
+    },
+    {
       "nama": "Ayam goreng kentucky dada",
       "gram": "100g",
       "kalori": 298,
@@ -192,14 +216,7 @@
       "lemak": 13.6,
       "karbohidrat": 1
     },
-    {
-      "nama": "Ayam goreng paha",
-      "gram": "100g",
-      "kalori": 287,
-      "protein": 31,
-      "lemak": 15.7,
-      "karbohidrat": 1.7
-    },
+
     {
       "nama": "Ayam goreng pasundan dada",
       "gram": "100g",
@@ -255,14 +272,6 @@
       "protein": 45.2,
       "lemak": 26.3,
       "karbohidrat": 13.9
-    },
-    {
-      "nama": "Babat",
-      "gram": "100g",
-      "kalori": 113,
-      "protein": 17.6,
-      "lemak": 4.2,
-      "karbohidrat": 0
     },
     {
       "nama": "Bacang",
@@ -377,7 +386,7 @@
       "karbohidrat": 19.6
     },
     {
-      "nama": "Batatas kelapa ubi bakar",
+      "nama": "Batatas kelapa ubi bakar(ubi cilembu)",
       "gram": "100g",
       "kalori": 110,
       "protein": 1.4,
@@ -641,14 +650,6 @@
       "karbohidrat": 74.5
     },
     {
-      "nama": "Beras ketan hitam tumbuk mentah",
-      "gram": "100g",
-      "kalori": 360,
-      "protein": 8,
-      "lemak": 2.3,
-      "karbohidrat": 74.5
-    },
-    {
       "nama": "Beras Ketan Putih",
       "gram": "100g",
       "kalori": 362,
@@ -681,33 +682,9 @@
       "karbohidrat": 78.4
     },
     {
-      "nama": "Beras ketan putih tumbuk mentah",
-      "gram": "100g",
-      "kalori": 361,
-      "protein": 7.4,
-      "lemak": 0.8,
-      "karbohidrat": 78.4
-    },
-    {
-      "nama": "Beras ladang mentah",
-      "gram": "100g",
-      "kalori": 376,
-      "protein": 7.5,
-      "lemak": 3.8,
-      "karbohidrat": 78
-    },
-    {
       "nama": "Beras Menir",
       "gram": "100g",
       "kalori": 339,
-      "protein": 7.7,
-      "lemak": 4.4,
-      "karbohidrat": 73
-    },
-    {
-      "nama": "Beras menir mentah",
-      "gram": "100g",
-      "kalori": 362,
       "protein": 7.7,
       "lemak": 4.4,
       "karbohidrat": 73
@@ -753,22 +730,6 @@
       "karbohidrat": 77
     },
     {
-      "nama": "Beras tumbuk mentah",
-      "gram": "100g",
-      "kalori": 354,
-      "protein": 7.8,
-      "lemak": 0.4,
-      "karbohidrat": 79.9
-    },
-    {
-      "nama": "Beras tumbuk merah mentah",
-      "gram": "100g",
-      "kalori": 352,
-      "protein": 7.3,
-      "lemak": 0.9,
-      "karbohidrat": 76.2
-    },
-    {
       "nama": "Betok wadi masakan",
       "gram": "100g",
       "kalori": 145,
@@ -799,22 +760,6 @@
       "protein": 6.1,
       "lemak": 3.9,
       "karbohidrat": 80.3
-    },
-    {
-      "nama": "Bihun Jagung mentah",
-      "gram": "100g",
-      "kalori": 354,
-      "protein": 0.5,
-      "lemak": 0.3,
-      "karbohidrat": 87.4
-    },
-    {
-      "nama": "Bihun mentah",
-      "gram": "100g",
-      "kalori": 348,
-      "protein": 4.7,
-      "lemak": 0.1,
-      "karbohidrat": 82.1
     },
     {
       "nama": "Biji Jambu Mete",
@@ -1057,20 +1002,20 @@
       "karbohidrat": 15.9
     },
     {
-      "nama": "Buaya daging dendeng mentah",
-      "gram": "100g",
-      "kalori": 365,
-      "protein": 49.6,
-      "lemak": 4.8,
-      "karbohidrat": 30.8
-    },
-    {
       "nama": "Bubur",
       "gram": "100g",
       "kalori": 60,
       "protein": 1,
       "lemak": 0.6,
       "karbohidrat": 13
+    },
+    {
+      "nama": "Bubur Kacang Ijo",
+      "gram": "100g",
+      "kalori": 108,
+      "protein": 3.54,
+      "lemak": 3.06,
+      "karbohidrat": 17.76
     },
     {
       "nama": "Bubur sagu",
@@ -1137,7 +1082,7 @@
       "karbohidrat": 6.4
     },
     {
-      "nama": "Bunga pepaya segar",
+      "nama": "Bunga pepaya",
       "gram": "100g",
       "kalori": 45,
       "protein": 2.6,
@@ -1193,20 +1138,12 @@
       "karbohidrat": 23.9
     },
     {
-      "nama": "Es Burung sarang segar",
+      "nama": "Es Burung sarang",
       "gram": "100g",
       "kalori": 281,
       "protein": 37.5,
       "lemak": 0.3,
       "karbohidrat": 32.1
-    },
-    {
-      "nama": "Caisin segar",
-      "gram": "100g",
-      "kalori": 20,
-      "protein": 1.7,
-      "lemak": 0.4,
-      "karbohidrat": 3.4
     },
     {
       "nama": "Cakalang asar (asap papua)",
@@ -1241,7 +1178,7 @@
       "karbohidrat": 4.2
     },
     {
-      "nama": "Carica papaya segar",
+      "nama": "Carica papaya",
       "gram": "100g",
       "kalori": 24,
       "protein": 1.9,
@@ -1399,7 +1336,7 @@
       "protein": 40.6,
       "lemak": 10.1,
       "karbohidrat": 0
-    },
+    },    
     {
       "nama": "Daging Asap",
       "gram": "100g",
@@ -1506,44 +1443,12 @@
       "karbohidrat": 8
     },
     {
-      "nama": "Daun kacang panjang segar",
-      "gram": "100g",
-      "kalori": 30,
-      "protein": 3.1,
-      "lemak": 0.3,
-      "karbohidrat": 5.8
-    },
-    {
-      "nama": "Daun kasbi/singkong karet segar",
-      "gram": "100g",
-      "kalori": 92,
-      "protein": 4,
-      "lemak": 3.6,
-      "karbohidrat": 10.9
-    },
-    {
-      "nama": "Daun Katuk",
-      "gram": "100g",
-      "kalori": 59,
-      "protein": 4.8,
-      "lemak": 1,
-      "karbohidrat": 11
-    },
-    {
       "nama": "Daun katuk rebus",
       "gram": "100g",
       "kalori": 53,
       "protein": 5.3,
       "lemak": 0.9,
       "karbohidrat": 9.1
-    },
-    {
-      "nama": "Daun Kecipir",
-      "gram": "100g",
-      "kalori": 47,
-      "protein": 5,
-      "lemak": 0.5,
-      "karbohidrat": 8.5
     },
     {
       "nama": "Daun Kedondong",
@@ -1578,23 +1483,7 @@
       "karbohidrat": 8.9
     },
     {
-      "nama": "Daun kenikir segar",
-      "gram": "100g",
-      "kalori": 45,
-      "protein": 3.7,
-      "lemak": 0.5,
-      "karbohidrat": 6.6
-    },
-    {
-      "nama": "Daun kesum segar",
-      "gram": "100g",
-      "kalori": 48,
-      "protein": 4.5,
-      "lemak": 0.8,
-      "karbohidrat": 9.1
-    },
-    {
-      "nama": "Daun kol sawi segar",
+      "nama": "Daun kol sawi",
       "gram": "100g",
       "kalori": 22,
       "protein": 2.1,
@@ -1610,20 +1499,12 @@
       "karbohidrat": 3.7
     },
     {
-      "nama": "Daun kubis segar",
+      "nama": "Daun kubis",
       "gram": "100g",
       "kalori": 51,
       "protein": 2.5,
       "lemak": 1.1,
       "karbohidrat": 8
-    },
-    {
-      "nama": "Daun Kumak",
-      "gram": "100g",
-      "kalori": 14,
-      "protein": 1.3,
-      "lemak": 0.3,
-      "karbohidrat": 2.3
     },
     {
       "nama": "Daun Labu Siam",
@@ -1640,22 +1521,6 @@
       "protein": 3.6,
       "lemak": 0.6,
       "karbohidrat": 4.5
-    },
-    {
-      "nama": "Daun lamtoro segar",
-      "gram": "100g",
-      "kalori": 87,
-      "protein": 8.3,
-      "lemak": 1.8,
-      "karbohidrat": 14.4
-    },
-    {
-      "nama": "Daun leilem segar",
-      "gram": "100g",
-      "kalori": 76,
-      "protein": 2.8,
-      "lemak": 0.2,
-      "karbohidrat": 15.8
     },
     {
       "nama": "Daun Leunca",
@@ -1688,14 +1553,6 @@
       "protein": 3.7,
       "lemak": 0.3,
       "karbohidrat": 11.8
-    },
-    {
-      "nama": "Daun matel ambon segar",
-      "gram": "100g",
-      "kalori": 71,
-      "protein": 6.8,
-      "lemak": 1.6,
-      "karbohidrat": 11.5
     },
     {
       "nama": "Daun Melinjo",
@@ -1738,36 +1595,12 @@
       "karbohidrat": 3.1
     },
     {
-      "nama": "Daun pakis segar",
-      "gram": "100g",
-      "kalori": 39,
-      "protein": 4.5,
-      "lemak": 0.4,
-      "karbohidrat": 6.9
-    },
-    {
       "nama": "Daun pakis wambateu segar",
       "gram": "100g",
       "kalori": 53,
       "protein": 3.4,
       "lemak": 1.2,
       "karbohidrat": 7.2
-    },
-    {
-      "nama": "Daun paku segar",
-      "gram": "100g",
-      "kalori": 29,
-      "protein": 3.4,
-      "lemak": 0.1,
-      "karbohidrat": 6.5
-    },
-    {
-      "nama": "Daun pangi segar",
-      "gram": "100g",
-      "kalori": 104,
-      "protein": 3.9,
-      "lemak": 0.6,
-      "karbohidrat": 17.9
     },
     {
       "nama": "Daun pare segar",
@@ -1913,16 +1746,9 @@
       "lemak": 0.2,
       "karbohidrat": 5.9
     },
+
     {
-      "nama": "Daun talas segar",
-      "gram": "100g",
-      "kalori": 59,
-      "protein": 3,
-      "lemak": 0.4,
-      "karbohidrat": 13.5
-    },
-    {
-      "nama": "Daun Tales",
+      "nama": "Daun Talas",
       "gram": "100g",
       "kalori": 71,
       "protein": 4.1,
@@ -2002,7 +1828,7 @@
       "karbohidrat": 11.9
     },
     {
-      "nama": "Deblo ",
+      "nama": "Deblo",
       "gram": "100g",
       "kalori": 260,
       "protein": 2,
@@ -2020,10 +1846,10 @@
     {
       "nama": "Dendeng Daging Sapi",
       "gram": "100g",
-      "kalori": 433,
-      "protein": 55,
-      "lemak": 9,
-      "karbohidrat": 0
+      "kalori": 410,
+      "protein": 33,
+      "lemak": 25,
+      "karbohidrat": 11
     },
     {
       "nama": "Dendeng mujahir goreng",
@@ -2098,30 +1924,6 @@
       "karbohidrat": 39.5
     },
     {
-      "nama": "Domba daging gemuk segar",
-      "gram": "100g",
-      "kalori": 317,
-      "protein": 15.7,
-      "lemak": 27.7,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Domba daging kurus segar",
-      "gram": "100g",
-      "kalori": 202,
-      "protein": 17.1,
-      "lemak": 14.8,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Domba ginjal segar",
-      "gram": "100g",
-      "kalori": 100,
-      "protein": 16.6,
-      "lemak": 3.3,
-      "karbohidrat": 1
-    },
-    {
       "nama": "Duku",
       "gram": "100g",
       "kalori": 63,
@@ -2146,36 +1948,12 @@
       "karbohidrat": 18.2
     },
     {
-      "nama": "Eceng Gondok",
-      "gram": "100g",
-      "kalori": 18,
-      "protein": 1,
-      "lemak": 0.2,
-      "karbohidrat": 3.8
-    },
-    {
-      "nama": "Embacang",
-      "gram": "100g",
-      "kalori": 98,
-      "protein": 1.4,
-      "lemak": 0.2,
-      "karbohidrat": 25.4
-    },
-    {
-      "nama": "Empal (daging) Goreng masakan",
+      "nama": "Empal (daging) Goreng",
       "gram": "100g",
       "kalori": 248,
       "protein": 36.2,
       "lemak": 6.9,
       "karbohidrat": 10.1
-    },
-    {
-      "nama": "Empal Goreng",
-      "gram": "100g",
-      "kalori": 590,
-      "protein": 18.5,
-      "lemak": 57,
-      "karbohidrat": 0
     },
     {
       "nama": "Emping (kerupuk melinjo)",
@@ -2274,20 +2052,12 @@
       "karbohidrat": 11.3
     },
     {
-      "nama": "Fillet o-fish",
+      "nama": "Fillet o-fish Mcdonald's",
       "gram": "100g",
       "kalori": 270,
       "protein": 12.3,
       "lemak": 15.9,
       "karbohidrat": 19.3
-    },
-    {
-      "nama": "Gadeng/Gadung kering",
-      "gram": "100g",
-      "kalori": 322,
-      "protein": 2.4,
-      "lemak": 0.6,
-      "karbohidrat": 76.6
     },
     {
       "nama": "Gado-gado",
@@ -2304,14 +2074,6 @@
       "protein": 0.8,
       "lemak": 0.3,
       "karbohidrat": 20.9
-    },
-    {
-      "nama": "Gadung mentah",
-      "gram": "100g",
-      "kalori": 101,
-      "protein": 2.1,
-      "lemak": 0.2,
-      "karbohidrat": 23.2
     },
     {
       "nama": "Gadung ubi kukus",
@@ -2360,14 +2122,6 @@
       "protein": 0.8,
       "lemak": 0.2,
       "karbohidrat": 23.8
-    },
-    {
-      "nama": "Ganyong mentah",
-      "gram": "100g",
-      "kalori": 95,
-      "protein": 1,
-      "lemak": 0.1,
-      "karbohidrat": 22.6
     },
     {
       "nama": "Ganyong rebus",
@@ -2522,30 +2276,6 @@
       "karbohidrat": 47.4
     },
     {
-      "nama": "Ginjal Babi",
-      "gram": "100g",
-      "kalori": 114,
-      "protein": 16.3,
-      "lemak": 4.6,
-      "karbohidrat": 0.8
-    },
-    {
-      "nama": "Ginjal Domba",
-      "gram": "100g",
-      "kalori": 105,
-      "protein": 16.6,
-      "lemak": 3.3,
-      "karbohidrat": 1
-    },
-    {
-      "nama": "Ginjal Sapi",
-      "gram": "100g",
-      "kalori": 141,
-      "protein": 15,
-      "lemak": 8.1,
-      "karbohidrat": 0.9
-    },
-    {
       "nama": "Gudeg",
       "gram": "100g",
       "kalori": 53,
@@ -2576,22 +2306,6 @@
       "protein": 3,
       "lemak": 10,
       "karbohidrat": 76
-    },
-    {
-      "nama": "Gula Merah Tebu belum dimurnikan",
-      "gram": "100g",
-      "kalori": 356,
-      "protein": 0.4,
-      "lemak": 0.5,
-      "karbohidrat": 90.6
-    },
-    {
-      "nama": "Gula putih",
-      "gram": "100g",
-      "kalori": 394,
-      "protein": 0,
-      "lemak": 0,
-      "karbohidrat": 94
     },
     {
       "nama": "Gulai asam keueng masakan",
@@ -2642,7 +2356,7 @@
       "karbohidrat": 6
     },
     {
-      "nama": "Gulai pliek",
+      "nama": "Gulai Kuah pliek",
       "gram": "100g",
       "kalori": 176,
       "protein": 7.3,
@@ -2674,44 +2388,12 @@
       "karbohidrat": 48.5
     },
     {
-      "nama": "Ham",
-      "gram": "100g",
-      "kalori": 389,
-      "protein": 16.9,
-      "lemak": 35,
-      "karbohidrat": 0.3
-    },
-    {
       "nama": "Hangop",
       "gram": "100g",
       "kalori": 65,
       "protein": 10,
       "lemak": 1,
       "karbohidrat": 3.5
-    },
-    {
-      "nama": "Hati ayam",
-      "gram": "100g",
-      "kalori": 116,
-      "protein": 16.9,
-      "lemak": 4.8,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Hati Babi",
-      "gram": "100g",
-      "kalori": 134,
-      "protein": 19.7,
-      "lemak": 4.8,
-      "karbohidrat": 1.7
-    },
-    {
-      "nama": "Hati Sapi",
-      "gram": "100g",
-      "kalori": 136,
-      "protein": 19.7,
-      "lemak": 3.2,
-      "karbohidrat": 6
     },
     {
       "nama": "Hofa/Ubi hutan segar",
@@ -2794,30 +2476,6 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Ikan Bader (Tawes)",
-      "gram": "100g",
-      "kalori": 198,
-      "protein": 19,
-      "lemak": 13,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan balong segar",
-      "gram": "100g",
-      "kalori": 107,
-      "protein": 16.5,
-      "lemak": 3.9,
-      "karbohidrat": 1.5
-    },
-    {
-      "nama": "Ikan bambangan segar",
-      "gram": "100g",
-      "kalori": 112,
-      "protein": 20,
-      "lemak": 1.3,
-      "karbohidrat": 3.7
-    },
-    {
       "nama": "Ikan Bandeng",
       "gram": "100g",
       "kalori": 129,
@@ -2858,14 +2516,6 @@
       "karbohidrat": 5.2
     },
     {
-      "nama": "Ikan baung segar",
-      "gram": "100g",
-      "kalori": 123,
-      "protein": 15.1,
-      "lemak": 5.5,
-      "karbohidrat": 3.3
-    },
-    {
       "nama": "Ikan Bawal",
       "gram": "100g",
       "kalori": 96,
@@ -2890,143 +2540,7 @@
       "karbohidrat": 7.2
     },
     {
-      "nama": "Ikan Belida segar",
-      "gram": "100g",
-      "kalori": 80,
-      "protein": 14.7,
-      "lemak": 1.4,
-      "karbohidrat": 2.2
-    },
-    {
-      "nama": "Ikan Belut Segar goreng",
-      "gram": "100g",
-      "kalori": 417,
-      "protein": 25.9,
-      "lemak": 19.4,
-      "karbohidrat": 32
-    },
-    {
-      "nama": "Ikan Belut Segar mentah",
-      "gram": "100g",
-      "kalori": 82,
-      "protein": 6.7,
-      "lemak": 1,
-      "karbohidrat": 10.9
-    },
-    {
-      "nama": "Ikan Beunteur",
-      "gram": "100g",
-      "kalori": 66,
-      "protein": 14,
-      "lemak": 0,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan biawan segar",
-      "gram": "100g",
-      "kalori": 90,
-      "protein": 14.9,
-      "lemak": 2.5,
-      "karbohidrat": 2.1
-    },
-    {
-      "nama": "Ikan bili segar",
-      "gram": "100g",
-      "kalori": 88,
-      "protein": 14.2,
-      "lemak": 0.7,
-      "karbohidrat": 6.2
-    },
-    {
-      "nama": "Ikan bubara segar",
-      "gram": "100g",
-      "kalori": 100,
-      "protein": 14.7,
-      "lemak": 2.4,
-      "karbohidrat": 4.9
-    },
-    {
-      "nama": "Ikan bulan-bulan segar",
-      "gram": "100g",
-      "kalori": 134,
-      "protein": 25.5,
-      "lemak": 1.3,
-      "karbohidrat": 5
-    },
-    {
-      "nama": "Ikan cakalang asap mentah",
-      "gram": "100g",
-      "kalori": 204,
-      "protein": 34.2,
-      "lemak": 5.6,
-      "karbohidrat": 1.9
-    },
-    {
-      "nama": "Ikan cakalang asin mentah",
-      "gram": "100g",
-      "kalori": 198,
-      "protein": 36.5,
-      "lemak": 2.2,
-      "karbohidrat": 5.5
-    },
-    {
-      "nama": "Ikan cakalang hati segar",
-      "gram": "100g",
-      "kalori": 120,
-      "protein": 11.3,
-      "lemak": 3.9,
-      "karbohidrat": 10
-    },
-    {
-      "nama": "Ikan cakalang jantung segar",
-      "gram": "100g",
-      "kalori": 116,
-      "protein": 11.2,
-      "lemak": 1.2,
-      "karbohidrat": 10.2
-    },
-    {
-      "nama": "Ikan cakalang perut segar",
-      "gram": "100g",
-      "kalori": 86,
-      "protein": 10.2,
-      "lemak": 1.1,
-      "karbohidrat": 8.7
-    },
-    {
-      "nama": "Ikan cakalang segar",
-      "gram": "100g",
-      "kalori": 107,
-      "protein": 19.6,
-      "lemak": 0.7,
-      "karbohidrat": 5.5
-    },
-    {
-      "nama": "Ikan calo/ peda mentah",
-      "gram": "100g",
-      "kalori": 81,
-      "protein": 11.4,
-      "lemak": 1.9,
-      "karbohidrat": 3.8
-    },
-    {
-      "nama": "Ikan daun segar",
-      "gram": "100g",
-      "kalori": 101,
-      "protein": 11.5,
-      "lemak": 4.1,
-      "karbohidrat": 4.6
-    },
-    {
-      "nama": "Ikan Ekor Kuning",
-      "gram": "100g",
-      "kalori": 109,
-      "protein": 17,
-      "lemak": 4,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan Gabus asap mentah",
+      "nama": "Ikan Gabus asap",
       "gram": "100g",
       "kalori": 261,
       "protein": 38.1,
@@ -3039,14 +2553,6 @@
       "kalori": 292,
       "protein": 58,
       "lemak": 4,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan Gabus segar",
-      "gram": "100g",
-      "kalori": 74,
-      "protein": 25.2,
-      "lemak": 1.7,
       "karbohidrat": 0
     },
     {
@@ -3122,14 +2628,6 @@
       "karbohidrat": 0.3
     },
     {
-      "nama": "Ikan kawalinya segar",
-      "gram": "100g",
-      "kalori": 110,
-      "protein": 12.6,
-      "lemak": 4.2,
-      "karbohidrat": 5.4
-    },
-    {
       "nama": "Ikan kayu kering",
       "gram": "100g",
       "kalori": 302,
@@ -3146,14 +2644,6 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Ikan kima segar",
-      "gram": "100g",
-      "kalori": 70,
-      "protein": 10.8,
-      "lemak": 0.7,
-      "karbohidrat": 5.2
-    },
-    {
       "nama": "Ikan Lais bakar",
       "gram": "100g",
       "kalori": 147,
@@ -3162,75 +2652,11 @@
       "karbohidrat": 5.4
     },
     {
-      "nama": "Ikan Layang",
-      "gram": "100g",
-      "kalori": 109,
-      "protein": 22,
-      "lemak": 1.7,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan layur segar",
-      "gram": "100g",
-      "kalori": 82,
-      "protein": 18,
-      "lemak": 1,
-      "karbohidrat": 0.4
-    },
-    {
-      "nama": "Ikan lehoma segar",
-      "gram": "100g",
-      "kalori": 90,
-      "protein": 20.4,
-      "lemak": 0.9,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Ikan Lele goreng",
       "gram": "100g",
       "kalori": 252,
       "protein": 19.9,
       "lemak": 19.1,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan Lemuru",
-      "gram": "100g",
-      "kalori": 112,
-      "protein": 20,
-      "lemak": 3,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan lidah segar",
-      "gram": "100g",
-      "kalori": 104,
-      "protein": 15.6,
-      "lemak": 3.2,
-      "karbohidrat": 2
-    },
-    {
-      "nama": "Ikan lomak asin mentah",
-      "gram": "100g",
-      "kalori": 258,
-      "protein": 40.3,
-      "lemak": 2.3,
-      "karbohidrat": 18.9
-    },
-    {
-      "nama": "Ikan malalugis segar",
-      "gram": "100g",
-      "kalori": 99,
-      "protein": 20.6,
-      "lemak": 1.4,
-      "karbohidrat": 0.9
-    },
-    {
-      "nama": "Ikan Mas",
-      "gram": "100g",
-      "kalori": 86,
-      "protein": 16,
-      "lemak": 2,
       "karbohidrat": 0
     },
     {
@@ -3250,28 +2676,12 @@
       "karbohidrat": 11.8
     },
     {
-      "nama": "Ikan mayong segar",
-      "gram": "100g",
-      "kalori": 97,
-      "protein": 17.9,
-      "lemak": 2,
-      "karbohidrat": 0.4
-    },
-    {
       "nama": "Ikan Mujair dendeng goreng",
       "gram": "100g",
       "kalori": 598,
       "protein": 74.3,
       "lemak": 26.9,
       "karbohidrat": 9.2
-    },
-    {
-      "nama": "Ikan Mujair dendeng mentah",
-      "gram": "100g",
-      "kalori": 582,
-      "protein": 68.3,
-      "lemak": 15.2,
-      "karbohidrat": 37.2
     },
     {
       "nama": "Ikan Mujair goreng",
@@ -3290,30 +2700,6 @@
       "karbohidrat": 0.8
     },
     {
-      "nama": "Ikan Mujair segar",
-      "gram": "100g",
-      "kalori": 89,
-      "protein": 18.7,
-      "lemak": 1,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan nasu metti segar",
-      "gram": "100g",
-      "kalori": 154,
-      "protein": 16.8,
-      "lemak": 5,
-      "karbohidrat": 10.5
-    },
-    {
-      "nama": "Ikan oci kembung segar",
-      "gram": "100g",
-      "kalori": 125,
-      "protein": 21.3,
-      "lemak": 3.4,
-      "karbohidrat": 2.2
-    },
-    {
       "nama": "Ikan Papuyu bakar",
       "gram": "100g",
       "kalori": 152,
@@ -3322,108 +2708,12 @@
       "karbohidrat": 6.7
     },
     {
-      "nama": "Ikan papuyu/ betok segar",
-      "gram": "100g",
-      "kalori": 120,
-      "protein": 14.3,
-      "lemak": 4.9,
-      "karbohidrat": 4.6
-    },
-    {
       "nama": "Ikan Patin bakar",
       "gram": "100g",
       "kalori": 144,
       "protein": 17.5,
       "lemak": 6.3,
       "karbohidrat": 4.3
-    },
-    {
-      "nama": "Ikan Patin segar",
-      "gram": "100g",
-      "kalori": 132,
-      "protein": 17,
-      "lemak": 6.6,
-      "karbohidrat": 1.1
-    },
-    {
-      "nama": "Ikan peda banjar mentah",
-      "gram": "100g",
-      "kalori": 156,
-      "protein": 28,
-      "lemak": 4,
-      "karbohidrat": 2
-    },
-    {
-      "nama": "Ikan Pepetek",
-      "gram": "100g",
-      "kalori": 176,
-      "protein": 32,
-      "lemak": 4.4,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan Pindang banjar mentah",
-      "gram": "100g",
-      "kalori": 157,
-      "protein": 28,
-      "lemak": 4.2,
-      "karbohidrat": 1.8
-    },
-    {
-      "nama": "Ikan Pindang benggol mentah",
-      "gram": "100g",
-      "kalori": 170,
-      "protein": 31,
-      "lemak": 4.2,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan Pindang layang mentah",
-      "gram": "100g",
-      "kalori": 153,
-      "protein": 30,
-      "lemak": 2.8,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan Pindang selar mentah",
-      "gram": "100g",
-      "kalori": 142,
-      "protein": 27,
-      "lemak": 3,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan sale lais mentah",
-      "gram": "100g",
-      "kalori": 415,
-      "protein": 61.3,
-      "lemak": 17.6,
-      "karbohidrat": 2.9
-    },
-    {
-      "nama": "Ikan Sale segar",
-      "gram": "100g",
-      "kalori": 534,
-      "protein": 40.2,
-      "lemak": 39.3,
-      "karbohidrat": 4.9
-    },
-    {
-      "nama": "Ikan saluang kering mentah",
-      "gram": "100g",
-      "kalori": 284,
-      "protein": 34.1,
-      "lemak": 9.9,
-      "karbohidrat": 14.6
-    },
-    {
-      "nama": "Ikan saluang segar",
-      "gram": "100g",
-      "kalori": 113,
-      "protein": 13.9,
-      "lemak": 4.9,
-      "karbohidrat": 3.4
     },
     {
       "nama": "Ikan sanggang masakan",
@@ -3455,14 +2745,6 @@
       "kalori": 194,
       "protein": 38,
       "lemak": 3.5,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan selar kuning cue mentah",
-      "gram": "100g",
-      "kalori": 138,
-      "protein": 27,
-      "lemak": 3.3,
       "karbohidrat": 0
     },
     {
@@ -3498,14 +2780,6 @@
       "karbohidrat": 3.8
     },
     {
-      "nama": "Ikan sunu asin mentah",
-      "gram": "100g",
-      "kalori": 199,
-      "protein": 34.1,
-      "lemak": 3.8,
-      "karbohidrat": 7.1
-    },
-    {
       "nama": "Ikan sunu segar",
       "gram": "100g",
       "kalori": 111,
@@ -3538,7 +2812,7 @@
       "karbohidrat": 6.5
     },
     {
-      "nama": "Ikan telur asin mentah",
+      "nama": "Ikan telur asin",
       "gram": "100g",
       "kalori": 358,
       "protein": 20.7,
@@ -3559,22 +2833,6 @@
       "kalori": 101,
       "protein": 15.1,
       "lemak": 4.1,
-      "karbohidrat": 1
-    },
-    {
-      "nama": "Ikan tepung mentah",
-      "gram": "100g",
-      "kalori": 316,
-      "protein": 60.1,
-      "lemak": 6.5,
-      "karbohidrat": 22.4
-    },
-    {
-      "nama": "Ikan terbang segar",
-      "gram": "100g",
-      "kalori": 98,
-      "protein": 19.6,
-      "lemak": 1.7,
       "karbohidrat": 1
     },
     {
@@ -3658,84 +2916,12 @@
       "karbohidrat": 62.3
     },
     {
-      "nama": "Itik alabio daging dendeng mentah",
-      "gram": "100g",
-      "kalori": 496,
-      "protein": 30.3,
-      "lemak": 33.5,
-      "karbohidrat": 18.4
-    },
-    {
       "nama": "Jagung grontol",
       "gram": "100g",
       "kalori": 156,
       "protein": 2.7,
       "lemak": 1.3,
       "karbohidrat": 33.3
-    },
-    {
-      "nama": "Jagung Kuning giling",
-      "gram": "100g",
-      "kalori": 361,
-      "protein": 8.7,
-      "lemak": 4.5,
-      "karbohidrat": 72.4
-    },
-    {
-      "nama": "Jagung Kuning muda",
-      "gram": "100g",
-      "kalori": 129,
-      "protein": 4.1,
-      "lemak": 1.3,
-      "karbohidrat": 30.3
-    },
-    {
-      "nama": "Jagung Kuning pipil baru",
-      "gram": "100g",
-      "kalori": 307,
-      "protein": 7.9,
-      "lemak": 3.4,
-      "karbohidrat": 63.6
-    },
-    {
-      "nama": "Jagung kuning pipil kering mentah",
-      "gram": "100g",
-      "kalori": 366,
-      "protein": 9.8,
-      "lemak": 7.3,
-      "karbohidrat": 69.1
-    },
-    {
-      "nama": "Jagung Kuning pipil lama",
-      "gram": "100g",
-      "kalori": 355,
-      "protein": 9.2,
-      "lemak": 3.9,
-      "karbohidrat": 73.7
-    },
-    {
-      "nama": "Jagung kuning pipil rebus",
-      "gram": "100g",
-      "kalori": 154,
-      "protein": 3.8,
-      "lemak": 3.5,
-      "karbohidrat": 28.4
-    },
-    {
-      "nama": "Jagung Kuning segar",
-      "gram": "100g",
-      "kalori": 140,
-      "protein": 4.7,
-      "lemak": 1.3,
-      "karbohidrat": 33.1
-    },
-    {
-      "nama": "Jagung kuning tepung",
-      "gram": "100g",
-      "kalori": 355,
-      "protein": 9.2,
-      "lemak": 3.9,
-      "karbohidrat": 73.7
     },
     {
       "nama": "Jagung muda",
@@ -3746,14 +2932,6 @@
       "karbohidrat": 7.4
     },
     {
-      "nama": "Jagung muda kuning mentah",
-      "gram": "100g",
-      "kalori": 147,
-      "protein": 5.1,
-      "lemak": 0.7,
-      "karbohidrat": 31.5
-    },
-    {
       "nama": "Jagung muda rebus",
       "gram": "100g",
       "kalori": 142,
@@ -3762,52 +2940,12 @@
       "karbohidrat": 30.3
     },
     {
-      "nama": "Jagung pipil var. harapan kering",
-      "gram": "100g",
-      "kalori": 367,
-      "protein": 6.2,
-      "lemak": 5.1,
-      "karbohidrat": 76.2
-    },
-    {
-      "nama": "Jagung pipil var. metro kering",
-      "gram": "100g",
-      "kalori": 368,
-      "protein": 5.5,
-      "lemak": 4.6,
-      "karbohidrat": 78
-    },
-    {
-      "nama": "Jagung Putih giling",
-      "gram": "100g",
-      "kalori": 361,
-      "protein": 8.7,
-      "lemak": 4.5,
-      "karbohidrat": 72.4
-    },
-    {
       "nama": "Jagung Putih muda",
       "gram": "100g",
       "kalori": 129,
       "protein": 4.1,
       "lemak": 1.3,
       "karbohidrat": 30.3
-    },
-    {
-      "nama": "Jagung Putih pipil baru",
-      "gram": "100g",
-      "kalori": 307,
-      "protein": 7.9,
-      "lemak": 3.4,
-      "karbohidrat": 63.6
-    },
-    {
-      "nama": "Jagung Putih pipil lama",
-      "gram": "100g",
-      "kalori": 355,
-      "protein": 9.2,
-      "lemak": 3.9,
-      "karbohidrat": 73.7
     },
     {
       "nama": "Jagung Putih segar",
@@ -3848,14 +2986,6 @@
       "protein": 1.5,
       "lemak": 1,
       "karbohidrat": 10.1
-    },
-    {
-      "nama": "Jali",
-      "gram": "100g",
-      "kalori": 289,
-      "protein": 11,
-      "lemak": 4,
-      "karbohidrat": 61
     },
     {
       "nama": "Jam selai",
@@ -3912,14 +3042,6 @@
       "protein": 0.7,
       "lemak": 0.6,
       "karbohidrat": 15.8
-    },
-    {
-      "nama": "Jampang huma mentah",
-      "gram": "100g",
-      "kalori": 350,
-      "protein": 6.2,
-      "lemak": 1.4,
-      "karbohidrat": 78.2
     },
     {
       "nama": "Jamur Coklat (kulat siau)",
@@ -3986,14 +3108,6 @@
       "karbohidrat": 5.5
     },
     {
-      "nama": "Jangang bintatoeng masakan",
-      "gram": "100g",
-      "kalori": 107,
-      "protein": 5.3,
-      "lemak": 2.2,
-      "karbohidrat": 16.5
-    },
-    {
       "nama": "Jantung Pisang segar",
       "gram": "100g",
       "kalori": 31,
@@ -4018,28 +3132,12 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Jawawut",
-      "gram": "100g",
-      "kalori": 334,
-      "protein": 9.7,
-      "lemak": 3.5,
-      "karbohidrat": 73.4
-    },
-    {
-      "nama": "Jenang ",
+      "nama": "Jenang",
       "gram": "100g",
       "kalori": 381.7,
       "protein": 9.5,
       "lemak": 9.5,
       "karbohidrat": 65.8
-    },
-    {
-      "nama": "Jengkol segar",
-      "gram": "100g",
-      "kalori": 192,
-      "protein": 5.4,
-      "lemak": 0.3,
-      "karbohidrat": 40.7
     },
     {
       "nama": "Jeruk Bali",
@@ -4098,28 +3196,12 @@
       "karbohidrat": 11.1
     },
     {
-      "nama": "Jotang",
-      "gram": "100g",
-      "kalori": 32,
-      "protein": 1.9,
-      "lemak": 0.3,
-      "karbohidrat": 7.1
-    },
-    {
       "nama": "Jukku pallu kaloa masakan",
       "gram": "100g",
       "kalori": 15,
       "protein": 15.2,
       "lemak": 4.3,
       "karbohidrat": 8.8
-    },
-    {
-      "nama": "Kabau segar",
-      "gram": "100g",
-      "kalori": 130,
-      "protein": 6.7,
-      "lemak": 0.3,
-      "karbohidrat": 25.2
     },
     {
       "nama": "Kaburan ubi segar",
@@ -4192,14 +3274,6 @@
       "protein": 17.5,
       "lemak": 10,
       "karbohidrat": 12.9
-    },
-    {
-      "nama": "Kacang beracun segar",
-      "gram": "100g",
-      "kalori": 118,
-      "protein": 4.4,
-      "lemak": 1.5,
-      "karbohidrat": 21.6
     },
     {
       "nama": "Kacang Bogor goreng",
@@ -4322,7 +3396,7 @@
       "karbohidrat": 18.3
     },
     {
-      "nama": "Kacang hijau var. bakti kering",
+      "nama": "Kacang hijau varian bakti kering",
       "gram": "100g",
       "kalori": 350,
       "protein": 17.1,
@@ -4330,7 +3404,7 @@
       "karbohidrat": 70.7
     },
     {
-      "nama": "Kacang hijau var. siwalik kering",
+      "nama": "Kacang hijau varian siwalik kering",
       "gram": "100g",
       "kalori": 339,
       "protein": 20.8,
@@ -4344,14 +3418,6 @@
       "protein": 16.6,
       "lemak": 1.7,
       "karbohidrat": 66.1
-    },
-    {
-      "nama": "Kacang Ijo",
-      "gram": "100g",
-      "kalori": 345,
-      "protein": 22.2,
-      "lemak": 1.2,
-      "karbohidrat": 62.9
     },
     {
       "nama": "Kacang Kapri Goreng ",
@@ -4762,14 +3828,6 @@
       "karbohidrat": 29.8
     },
     {
-      "nama": "Kakap",
-      "gram": "100g",
-      "kalori": 92,
-      "protein": 20,
-      "lemak": 0.7,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Kalakai",
       "gram": "100g",
       "kalori": 66,
@@ -4808,14 +3866,6 @@
       "protein": 10.6,
       "lemak": 12.4,
       "karbohidrat": 9.7
-    },
-    {
-      "nama": "Kambing daging segar",
-      "gram": "100g",
-      "kalori": 149,
-      "protein": 16.6,
-      "lemak": 9.2,
-      "karbohidrat": 0
     },
     {
       "nama": "Kambose",
@@ -4928,30 +3978,6 @@
       "protein": 11.2,
       "lemak": 11.2,
       "karbohidrat": 2.8
-    },
-    {
-      "nama": "Katak",
-      "gram": "100g",
-      "kalori": 73,
-      "protein": 16.4,
-      "lemak": 0.3,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Katul Beras",
-      "gram": "100g",
-      "kalori": 275,
-      "protein": 12.6,
-      "lemak": 14.8,
-      "karbohidrat": 54.6
-    },
-    {
-      "nama": "Katul Jagung",
-      "gram": "100g",
-      "kalori": 356,
-      "protein": 9,
-      "lemak": 8.5,
-      "karbohidrat": 64.5
     },
     {
       "nama": "Kawista segar",
@@ -5138,12 +4164,12 @@
       "karbohidrat": 13.7
     },
     {
-      "nama": "Kentang",
+      "nama": "Kentang goreng",
       "gram": "100g",
-      "kalori": 83,
-      "protein": 2,
-      "lemak": 0.1,
-      "karbohidrat": 19.1
+      "kalori": 274,
+      "protein": 3.84,
+      "lemak": 14.06,
+      "karbohidrat": 35.66
     },
     {
       "nama": "Kentang Hitam",
@@ -5154,14 +4180,6 @@
       "karbohidrat": 33.7
     },
     {
-      "nama": "Keong",
-      "gram": "100g",
-      "kalori": 64,
-      "protein": 12,
-      "lemak": 1,
-      "karbohidrat": 2
-    },
-    {
       "nama": "Kepala Susu (Krim)",
       "gram": "100g",
       "kalori": 204,
@@ -5170,43 +4188,11 @@
       "karbohidrat": 4
     },
     {
-      "nama": "Kepiting",
+      "nama": "Kepiting masakan",
       "gram": "100g",
-      "kalori": 151,
-      "protein": 13.8,
-      "lemak": 3.8,
-      "karbohidrat": 14.1
-    },
-    {
-      "nama": "Kerang",
-      "gram": "100g",
-      "kalori": 59,
-      "protein": 18,
-      "lemak": 1.1,
-      "karbohidrat": 3.6
-    },
-    {
-      "nama": "Kerang asap mentah",
-      "gram": "100g",
-      "kalori": 393,
-      "protein": 38.9,
-      "lemak": 13.3,
-      "karbohidrat": 29.4
-    },
-    {
-      "nama": "Kerang dendeng mentah",
-      "gram": "100g",
-      "kalori": 357,
-      "protein": 41.1,
-      "lemak": 10,
-      "karbohidrat": 25.6
-    },
-    {
-      "nama": "Kerbau daging segar",
-      "gram": "100g",
-      "kalori": 79,
-      "protein": 18.7,
-      "lemak": 0.5,
+      "kalori": 101,
+      "protein": 20.03,
+      "lemak": 1.7,
       "karbohidrat": 0
     },
     {
@@ -5354,7 +4340,7 @@
       "karbohidrat": 65.6
     },
     {
-      "nama": "Kerupuk kemplang (ikan) mentah",
+      "nama": "Kerupuk kemplang (ikan)",
       "gram": "100g",
       "kalori": 325,
       "protein": 1.8,
@@ -5386,7 +4372,7 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Kerupuk Melinjo mentah",
+      "nama": "Kerupuk Melinjo (Emping) )",
       "gram": "100g",
       "kalori": 345,
       "protein": 12,
@@ -5946,14 +4932,6 @@
       "karbohidrat": 9.1
     },
     {
-      "nama": "Kura-kura",
-      "gram": "100g",
-      "kalori": 83,
-      "protein": 19.1,
-      "lemak": 0.2,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Kwaci",
       "gram": "100g",
       "kalori": 515,
@@ -6410,7 +5388,7 @@
       "karbohidrat": 23.7
     },
     {
-      "nama": "Martabak  manis",
+      "nama": "Martabak manis",
       "gram": "100g",
       "kalori": 265.3,
       "protein": 4.7,
@@ -6480,14 +5458,6 @@
       "protein": 0.6,
       "lemak": 0.4,
       "karbohidrat": 7.8
-    },
-    {
-      "nama": "Menjangan daging dendeng mentah",
-      "gram": "100g",
-      "kalori": 322,
-      "protein": 55.8,
-      "lemak": 2,
-      "karbohidrat": 22.7
     },
     {
       "nama": "Mentega",
@@ -6698,7 +5668,7 @@
       "karbohidrat": 4.7
     },
     {
-      "nama": "Mujahir acar kuning masakan",
+      "nama": "Mujair acar kuning masakan",
       "gram": "100g",
       "kalori": 330,
       "protein": 17.8,
@@ -6842,7 +5812,7 @@
       "karbohidrat": 15.9
     },
     {
-      "nama": "Noga Kacang Tanah ",
+      "nama": "Noga Kacang Tanah",
       "gram": "100g",
       "kalori": 600,
       "protein": 14,
@@ -7786,14 +6756,6 @@
       "karbohidrat": 8.1
     },
     {
-      "nama": "Rusa daging dendeng mentah",
-      "gram": "100g",
-      "kalori": 536,
-      "protein": 40.5,
-      "lemak": 41.5,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Saga biji tanpa kulit",
       "gram": "100g",
       "kalori": 449,
@@ -7946,35 +6908,11 @@
       "karbohidrat": 59.3
     },
     {
-      "nama": "Sapi babat segar",
-      "gram": "100g",
-      "kalori": 108,
-      "protein": 17.6,
-      "lemak": 4.2,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Sapi daging asap",
       "gram": "100g",
       "kalori": 182,
       "protein": 32,
       "lemak": 6,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Sapi daging dendeng mentah",
-      "gram": "100g",
-      "kalori": 301,
-      "protein": 55,
-      "lemak": 9,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Sapi daging gemuk segar",
-      "gram": "100g",
-      "kalori": 273,
-      "protein": 17.5,
-      "lemak": 22,
       "karbohidrat": 0
     },
     {
@@ -7986,44 +6924,12 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Sapi daging kurus segar",
-      "gram": "100g",
-      "kalori": 174,
-      "protein": 19.6,
-      "lemak": 10,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Sapi daging lemak sedang segar",
-      "gram": "100g",
-      "kalori": 201,
-      "protein": 18.8,
-      "lemak": 14,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Sapi daging sosis (Worst)",
       "gram": "100g",
       "kalori": 448,
       "protein": 14.5,
       "lemak": 42.3,
       "karbohidrat": 2.3
-    },
-    {
-      "nama": "Sapi dideh/darah",
-      "gram": "100g",
-      "kalori": 98,
-      "protein": 21.9,
-      "lemak": 1.1,
-      "karbohidrat": 0
-    },
-    {
-      "nama": "Sapi ginjal segar",
-      "gram": "100g",
-      "kalori": 137,
-      "protein": 15,
-      "lemak": 8.1,
-      "karbohidrat": 0.9
     },
     {
       "nama": "Sapi hati sosis (liverworst)",
@@ -8034,52 +6940,12 @@
       "karbohidrat": 3
     },
     {
-      "nama": "Sapi keleponan segar",
-      "gram": "100g",
-      "kalori": 84,
-      "protein": 10.5,
-      "lemak": 4.6,
-      "karbohidrat": 0.2
-    },
-    {
-      "nama": "Sapi liver segar",
-      "gram": "100g",
-      "kalori": 132,
-      "protein": 19.7,
-      "lemak": 3.2,
-      "karbohidrat": 6
-    },
-    {
-      "nama": "Sapi otak segar",
-      "gram": "100g",
-      "kalori": 123,
-      "protein": 10.4,
-      "lemak": 8.6,
-      "karbohidrat": 0.8
-    },
-    {
-      "nama": "Sapi paru dendeng mentah",
-      "gram": "100g",
-      "kalori": 360,
-      "protein": 57.3,
-      "lemak": 6,
-      "karbohidrat": 19.2
-    },
-    {
       "nama": "Sapi paru goreng",
       "gram": "100g",
       "kalori": 268,
       "protein": 23.9,
       "lemak": 12.7,
       "karbohidrat": 14.5
-    },
-    {
-      "nama": "Sapi usus segar",
-      "gram": "100g",
-      "kalori": 126,
-      "protein": 14,
-      "lemak": 7.2,
-      "karbohidrat": 1.5
     },
     {
       "nama": "Sarang Burung",
@@ -8296,6 +7162,14 @@
       "protein": 5.4,
       "lemak": 2.6,
       "karbohidrat": 3.1
+    },
+    {
+      "nama": "Seblak",
+      "gram": "100g",
+      "kalori": 262,
+      "protein": 8.15,
+      "lemak": 13.31,
+      "karbohidrat": 31.15
     },
     {
       "nama": "Selada",
@@ -8850,14 +7724,6 @@
       "karbohidrat": 28.2
     },
     {
-      "nama": "Tales mentah",
-      "gram": "100g",
-      "kalori": 98,
-      "protein": 1.9,
-      "lemak": 0.2,
-      "karbohidrat": 23.7
-    },
-    {
       "nama": "Taoco",
       "gram": "100g",
       "kalori": 166,
@@ -9122,14 +7988,6 @@
       "karbohidrat": 1.6
     },
     {
-      "nama": "Telur Penyu",
-      "gram": "100g",
-      "kalori": 144,
-      "protein": 12,
-      "lemak": 10.2,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Telur Terubuk",
       "gram": "100g",
       "kalori": 425,
@@ -9202,14 +8060,6 @@
       "karbohidrat": 10.4
     },
     {
-      "nama": "Tempe kedelai murni mentah",
-      "gram": "100g",
-      "kalori": 201,
-      "protein": 20.8,
-      "lemak": 8.8,
-      "karbohidrat": 13.5
-    },
-    {
       "nama": "Tempe koro benguk",
       "gram": "100g",
       "kalori": 141,
@@ -9269,14 +8119,6 @@
       "nama": "Tepung Beras",
       "gram": "100g",
       "kalori": 364,
-      "protein": 7,
-      "lemak": 0.5,
-      "karbohidrat": 80
-    },
-    {
-      "nama": "Tepung beras mentah",
-      "gram": "100g",
-      "kalori": 353,
       "protein": 7,
       "lemak": 0.5,
       "karbohidrat": 80
@@ -9482,14 +8324,6 @@
       "karbohidrat": 3.5
     },
     {
-      "nama": "Terasi merah",
-      "gram": "100g",
-      "kalori": 174,
-      "protein": 30,
-      "lemak": 3.5,
-      "karbohidrat": 5.6
-    },
-    {
       "nama": "Teri balado masakan",
       "gram": "100g",
       "kalori": 365,
@@ -9497,14 +8331,7 @@
       "lemak": 22.3,
       "karbohidrat": 17.5
     },
-    {
-      "nama": "Teripang dendeng mentah",
-      "gram": "100g",
-      "kalori": 462,
-      "protein": 39.1,
-      "lemak": 32.4,
-      "karbohidrat": 3.5
-    },
+
     {
       "nama": "Terong",
       "gram": "100g",
@@ -9610,14 +8437,6 @@
       "karbohidrat": 26
     },
     {
-      "nama": "Tinira ninahu nggaluku",
-      "gram": "100g",
-      "kalori": 33,
-      "protein": 1.2,
-      "lemak": 1.3,
-      "karbohidrat": 4.1
-    },
-    {
       "nama": "Tinoransak masakan",
       "gram": "100g",
       "kalori": 516,
@@ -9688,14 +8507,6 @@
       "protein": 9,
       "lemak": 2.6,
       "karbohidrat": 6.4
-    },
-    {
-      "nama": "Toge seduh",
-      "gram": "100g",
-      "kalori": 28,
-      "protein": 3,
-      "lemak": 0.8,
-      "karbohidrat": 4
     },
     {
       "nama": "Tomat air (juice) segar",
@@ -9858,44 +8669,12 @@
       "karbohidrat": 1.2
     },
     {
-      "nama": "Udang galah segar",
+      "nama": "Udang goreng",
       "gram": "100g",
-      "kalori": 81,
-      "protein": 16.5,
-      "lemak": 0.3,
-      "karbohidrat": 3
-    },
-    {
-      "nama": "Udang kering",
-      "gram": "100g",
-      "kalori": 295,
-      "protein": 62.4,
-      "lemak": 2.3,
-      "karbohidrat": 1.8
-    },
-    {
-      "nama": "Udang kering mentah",
-      "gram": "100g",
-      "kalori": 278,
-      "protein": 62.6,
-      "lemak": 4.1,
-      "karbohidrat": 2.2
-    },
-    {
-      "nama": "Udang papay mentah",
-      "gram": "100g",
-      "kalori": 273,
-      "protein": 47.8,
-      "lemak": 3.8,
-      "karbohidrat": 12.5
-    },
-    {
-      "nama": "Udang segar",
-      "gram": "100g",
-      "kalori": 91,
-      "protein": 21,
-      "lemak": 0.2,
-      "karbohidrat": 0.1
+      "kalori": 287,
+      "protein": 10.5,
+      "lemak": 14.6,
+      "karbohidrat": 27.57
     },
     {
       "nama": "Ulat sagu panggang",
@@ -9928,14 +8707,6 @@
       "protein": 2.4,
       "lemak": 0.3,
       "karbohidrat": 5.5
-    },
-    {
-      "nama": "Usus Sapi",
-      "gram": "100g",
-      "kalori": 130,
-      "protein": 14,
-      "lemak": 7.2,
-      "karbohidrat": 1.5
     },
     {
       "nama": "Uwi",
