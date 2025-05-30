@@ -1860,6 +1860,22 @@
       "karbohidrat": 9.2
     },
     {
+      "nama": "Dimsum",
+      "gram": "100g",
+      "kalori": 112,
+      "protein": 11.55,
+      "lemak": 2.64,
+      "karbohidrat": 9.56
+    },
+    {
+      "nama": "Dimsum mentai",
+      "gram": "100g",
+      "kalori": 202,
+      "protein": 12,
+      "lemak": 8.24,
+      "karbohidrat": 19.2
+    },
+    {
       "nama": "Djibokum masakan",
       "gram": "100g",
       "kalori": 248,
@@ -2476,12 +2492,12 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Ikan Bandeng",
+      "nama": "Ikan Bandeng goreng",
       "gram": "100g",
-      "kalori": 129,
-      "protein": 20,
-      "lemak": 4.8,
-      "karbohidrat": 0
+      "kalori": 233,
+      "protein": 18,
+      "lemak": 16.4,
+      "karbohidrat": 2.3
     },
     {
       "nama": "Ikan bandeng presto masakan",
@@ -2492,22 +2508,6 @@
       "karbohidrat": 11.3
     },
     {
-      "nama": "Ikan banjar segar",
-      "gram": "100g",
-      "kalori": 111,
-      "protein": 19.4,
-      "lemak": 0.9,
-      "karbohidrat": 4.8
-    },
-    {
-      "nama": "Ikan baronang segar",
-      "gram": "100g",
-      "kalori": 78,
-      "protein": 14.5,
-      "lemak": 0.6,
-      "karbohidrat": 3.7
-    },
-    {
       "nama": "Ikan baung bakar",
       "gram": "100g",
       "kalori": 144,
@@ -2516,20 +2516,12 @@
       "karbohidrat": 5.2
     },
     {
-      "nama": "Ikan Bawal",
+      "nama": "Ikan Bawal goreng",
       "gram": "100g",
-      "kalori": 96,
-      "protein": 19,
-      "lemak": 1.7,
+      "kalori": 113,
+      "protein": 20,
+      "lemak": 2.7,
       "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan Bekasang",
-      "gram": "100g",
-      "kalori": 138,
-      "protein": 14,
-      "lemak": 0.7,
-      "karbohidrat": 7.4
     },
     {
       "nama": "Ikan Belida bakar",
@@ -2538,6 +2530,14 @@
       "protein": 18,
       "lemak": 3,
       "karbohidrat": 7.2
+    },
+    {
+      "nama": "Ikan belanak goreng",
+      "gram": "100g",
+      "kalori": 169,
+      "protein": 18,
+      "lemak": 9.2,
+      "karbohidrat": 2.5
     },
     {
       "nama": "Ikan Gabus asap",
@@ -2580,14 +2580,6 @@
       "karbohidrat": 20.2
     },
     {
-      "nama": "Ikan hiu segar",
-      "gram": "100g",
-      "kalori": 57,
-      "protein": 10.7,
-      "lemak": 0.3,
-      "karbohidrat": 2.2
-    },
-    {
       "nama": "Ikan kacangan segar",
       "gram": "100g",
       "kalori": 77,
@@ -2604,22 +2596,6 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Ikan kakatua segar",
-      "gram": "100g",
-      "kalori": 82,
-      "protein": 11.4,
-      "lemak": 1.2,
-      "karbohidrat": 6.4
-    },
-    {
-      "nama": "Ikan kapar segar",
-      "gram": "100g",
-      "kalori": 132,
-      "protein": 17,
-      "lemak": 6.7,
-      "karbohidrat": 0.8
-    },
-    {
       "nama": "Ikan katombo asin",
       "gram": "100g",
       "kalori": 162,
@@ -2634,14 +2610,6 @@
       "protein": 70.7,
       "lemak": 1.9,
       "karbohidrat": 0.4
-    },
-    {
-      "nama": "Ikan Kembung",
-      "gram": "100g",
-      "kalori": 103,
-      "protein": 22,
-      "lemak": 1,
-      "karbohidrat": 0
     },
     {
       "nama": "Ikan Lais bakar",
@@ -2724,19 +2692,11 @@
       "karbohidrat": 20.7
     },
     {
-      "nama": "Ikan sarden segar",
+      "nama": "Ikan salmon",
       "gram": "100g",
-      "kalori": 109,
-      "protein": 19.9,
-      "lemak": 1.8,
-      "karbohidrat": 3.4
-    },
-    {
-      "nama": "Ikan Segar",
-      "gram": "100g",
-      "kalori": 113,
-      "protein": 17,
-      "lemak": 4.5,
+      "kalori": 146,
+      "protein": 21.7,
+      "lemak": 5.3,
       "karbohidrat": 0
     },
     {
@@ -2748,68 +2708,12 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Ikan selar segar",
-      "gram": "100g",
-      "kalori": 100,
-      "protein": 18.8,
-      "lemak": 2.2,
-      "karbohidrat": 0
-    },
-    {
       "nama": "Ikan Sepat kering",
       "gram": "100g",
       "kalori": 289,
       "protein": 38,
       "lemak": 14,
       "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan sepat segar",
-      "gram": "100g",
-      "kalori": 84,
-      "protein": 15.2,
-      "lemak": 0.6,
-      "karbohidrat": 4.7
-    },
-    {
-      "nama": "Ikan sidat segar",
-      "gram": "100g",
-      "kalori": 81,
-      "protein": 11.4,
-      "lemak": 1.9,
-      "karbohidrat": 3.8
-    },
-    {
-      "nama": "Ikan sunu segar",
-      "gram": "100g",
-      "kalori": 111,
-      "protein": 13.3,
-      "lemak": 3.4,
-      "karbohidrat": 6.7
-    },
-    {
-      "nama": "Ikan tahuman segar",
-      "gram": "100g",
-      "kalori": 88,
-      "protein": 15.9,
-      "lemak": 0.9,
-      "karbohidrat": 4.1
-    },
-    {
-      "nama": "Ikan tarmon segar",
-      "gram": "100g",
-      "kalori": 96,
-      "protein": 19.5,
-      "lemak": 1.1,
-      "karbohidrat": 2
-    },
-    {
-      "nama": "Ikan telan segar",
-      "gram": "100g",
-      "kalori": 95,
-      "protein": 15.8,
-      "lemak": 0.7,
-      "karbohidrat": 6.5
     },
     {
       "nama": "Ikan telur asin",
@@ -2826,14 +2730,6 @@
       "protein": 16,
       "lemak": 15,
       "karbohidrat": 0
-    },
-    {
-      "nama": "Ikan tempahas segar",
-      "gram": "100g",
-      "kalori": 101,
-      "protein": 15.1,
-      "lemak": 4.1,
-      "karbohidrat": 1
     },
     {
       "nama": "Ikan Teri bubuk",
@@ -2868,14 +2764,6 @@
       "karbohidrat": 0
     },
     {
-      "nama": "Ikan teri segar",
-      "gram": "100g",
-      "kalori": 74,
-      "protein": 10.3,
-      "lemak": 1.4,
-      "karbohidrat": 4.1
-    },
-    {
       "nama": "Ikan Teri tepung",
       "gram": "100g",
       "kalori": 347,
@@ -2884,28 +2772,12 @@
       "karbohidrat": 19.6
     },
     {
-      "nama": "Ikan titang segar",
+      "nama": "Ikan tongkol goreng",
       "gram": "100g",
-      "kalori": 82,
-      "protein": 17.4,
-      "lemak": 0.4,
-      "karbohidrat": 2.3
-    },
-    {
-      "nama": "Ikan tongkol segar",
-      "gram": "100g",
-      "kalori": 100,
-      "protein": 13.7,
-      "lemak": 1.5,
-      "karbohidrat": 8
-    },
-    {
-      "nama": "Ikan turi segar",
-      "gram": "100g",
-      "kalori": 96,
-      "protein": 19.2,
-      "lemak": 2,
-      "karbohidrat": 0.2
+      "kalori": 200,
+      "protein": 20.9,
+      "lemak": 11.41,
+      "karbohidrat": 2.38
     },
     {
       "nama": "Intip goreng",
@@ -5044,6 +4916,14 @@
       "karbohidrat": 55.5
     },
     {
+      "nama": "Lasagna dengan daging",
+      "gram": "100g",
+      "kalori": 163,
+      "protein": 9.96,
+      "lemak": 6,
+      "karbohidrat": 17.2
+    },
+    {
       "nama": "Lawar babi masakan",
       "gram": "100g",
       "kalori": 174,
@@ -6876,6 +6756,14 @@
       "karbohidrat": 66.1
     },
     {
+      "nama": "Salmon masakan",
+      "gram": "100g",
+      "kalori": 139,
+      "protein": 23.4,
+      "lemak": 4.3,
+      "karbohidrat": 0
+    },
+    {
       "nama": "Santan (dengan air)",
       "gram": "100g",
       "kalori": 122,
@@ -6978,6 +6866,14 @@
       "protein": 2.3,
       "lemak": 2.8,
       "karbohidrat": 32.9
+    },
+    {
+      "nama": "Sate Ayam",
+      "gram": "100g",
+      "kalori": 225,
+      "protein": 19.54,
+      "lemak": 16.14,
+      "karbohidrat": 4.8
     },
     {
       "nama": "Sate Bandeng",
