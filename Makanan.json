@@ -33,22 +33,6 @@
       "karbohidrat": 7.7
     },
     {
-      "nama": "Ampas Tahu",
-      "gram": "100g",
-      "kalori": 414,
-      "protein": 26.6,
-      "lemak": 18.3,
-      "karbohidrat": 41.3
-    },
-    {
-      "nama": "Ampas tahu kukus",
-      "gram": "100g",
-      "kalori": 75,
-      "protein": 4.1,
-      "lemak": 2.1,
-      "karbohidrat": 10.7
-    },
-    {
       "nama": "Apel",
       "gram": "100g",
       "kalori": 58,
@@ -7579,7 +7563,7 @@
       "karbohidrat": 0.8
     },
     {
-      "nama": "Telur Ayam ceplok",
+      "nama": "Telur ceplok",
       "gram": "100g",
       "kalori": 383,
       "protein": 15.1,
@@ -7587,7 +7571,7 @@
       "karbohidrat": 8.3
     },
     {
-      "nama": "Telur Ayam dadar",
+      "nama": "Telur dadar",
       "gram": "100g",
       "kalori": 251,
       "protein": 16.3,
@@ -7595,7 +7579,7 @@
       "karbohidrat": 1.4
     },
     {
-      "nama": "Telur ayam kampung ",
+      "nama": "Telur ayam kampung",
       "gram": "100g",
       "kalori": 179,
       "protein": 13.6,
