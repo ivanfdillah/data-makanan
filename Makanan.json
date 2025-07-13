@@ -1114,14 +1114,6 @@
       "karbohidrat": 23.9
     },
     {
-      "nama": "Es Burung sarang",
-      "gram": "100g",
-      "kalori": 281,
-      "protein": 37.5,
-      "lemak": 0.3,
-      "karbohidrat": 32.1
-    },
-    {
       "nama": "Cakalang asar (asap papua)",
       "gram": "100g",
       "kalori": 155,
@@ -1979,20 +1971,20 @@
       "karbohidrat": 18.9
     },
     {
-      "nama": "Es krim",
-      "gram": "100g",
-      "kalori": 210,
-      "protein": 4,
-      "lemak": 12.5,
-      "karbohidrat": 20.6
+      "nama": "Es krim(1 porsi)",
+      "gram": "66g",
+      "kalori": 133,
+      "protein": 2.32,
+      "lemak": 7.08,
+      "karbohidrat": 16.1
     },
     {
-      "nama": "Es Krim (Coconut milk)",
-      "gram": "100g",
-      "kalori": 156.7,
-      "protein": 3,
-      "lemak": 1.7,
-      "karbohidrat": 32.7
+      "nama": "Es Teh(1 gelas)",
+      "gram": "240ml",
+      "kalori": 90,
+      "protein": 0.02,
+      "lemak": 0,
+      "karbohidrat": 23.44
     },
     {
       "nama": "Es Mambo",
