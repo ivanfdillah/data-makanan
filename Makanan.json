@@ -1923,8 +1923,8 @@
       "karbohidrat": 10.1
     },
     {
-      "nama": "Emping (kerupuk melinjo)",
-      "gram": "1 keping",
+      "nama": "Emping melinjo(1 Keping)",
+      "gram": "0g",
       "kalori": 7,
       "protein": 0.24,
       "lemak": 0.03,
@@ -1971,7 +1971,7 @@
       "karbohidrat": 18.9
     },
     {
-      "nama": "Es krim(1 porsi)",
+      "nama": "Es krim (1 porsi)",
       "gram": "66g",
       "kalori": 133,
       "protein": 2.32,
@@ -1979,7 +1979,15 @@
       "karbohidrat": 16.1
     },
     {
-      "nama": "Es Teh(1 gelas)",
+      "nama": "Es buah (1 porsi)",
+      "gram": "97g",
+      "kalori": 124,
+      "protein": 0.39,
+      "lemak": 0,
+      "karbohidrat": 31.62
+    },
+    {
+      "nama": "Es Teh (1 gelas)",
       "gram": "240ml",
       "kalori": 90,
       "protein": 0.02,
@@ -1987,12 +1995,60 @@
       "karbohidrat": 23.44
     },
     {
-      "nama": "Es Mambo",
-      "gram": "100g",
-      "kalori": 152,
-      "protein": 0,
+      "nama": "Es Teh Tawar (1 gelas)",
+      "gram": "240ml",
+      "kalori": 2,
+      "protein": 0.02,
       "lemak": 0,
-      "karbohidrat": 37.6
+      "karbohidrat": 0.67
+    },
+    {
+      "nama": "Es Kuwut (1 gelas)",
+      "gram": "0g",
+      "kalori": 157,
+      "protein": 1.6,
+      "lemak": 2.22,
+      "karbohidrat": 34.51
+    },
+    {
+      "nama": "Es doger (1 gelas)",
+      "gram": "0g",
+      "kalori": 341,
+      "protein": 3.52,
+      "lemak": 5.9,
+      "karbohidrat": 68.64
+    },
+    {
+      "nama": "Es Podeng (1 gelas)",
+      "gram": "0g",
+      "kalori": 300,
+      "protein": 4.11,
+      "lemak": 15.37,
+      "karbohidrat": 39.59
+    },
+    {
+      "nama": "Es Kelapa Muda (1 gelas)",
+      "gram": "0g",
+      "kalori": 113,
+      "protein": 0.21,
+      "lemak": 2.05,
+      "karbohidrat": 24.27
+    },
+    {
+      "nama": "Es Teler (1 Mangkok)",
+      "gram": "0g",
+      "kalori": 425,
+      "protein": 5.1,
+      "lemak": 19.64,
+      "karbohidrat": 62.11
+    },
+    {
+      "nama": "Es Pisang Ijo (1 Mangkok)",
+      "gram": "0g",
+      "kalori": 301,
+      "protein": 2.84,
+      "lemak": 13.27,
+      "karbohidrat": 47
     },
     {
       "nama": "Es Sirup",
@@ -4043,32 +4099,32 @@
       "karbohidrat": 67.6
     },
     {
-      "nama": "Kerupuk putih",
-      "gram": "1 keping",
+      "nama": "Kerupuk putih (1 Keping)",
+      "gram": "0g",
       "kalori": 65,
       "protein": 0.83,
       "lemak": 2.11,
       "karbohidrat": 10.4
     },
     {
-      "nama": "Kerupuk beras",
-      "gram": "1 keping",
+      "nama": "Kerupuk beras (1 Keping)",
+      "gram": "0g",
       "kalori": 12,
       "protein": 0.2,
       "lemak": 0.17,
       "karbohidrat": 2.24
     },
     {
-      "nama": "Kerupuk Asin",
-      "gram": "1 keping",
+      "nama": "Kerupuk Asin (1 Keping)",
+      "gram": "0g",
       "kalori": 13,
       "protein": 0.28,
       "lemak": 0.34,
       "karbohidrat": 2.13
     },
     {
-      "nama": "Kerupuk kemplang panggang",
-      "gram": "1 keping",
+      "nama": "Kerupuk kemplang panggang (1 Keping)",
+      "gram": "0g",
       "kalori": 65,
       "protein": 2,
       "lemak": 0,
@@ -4099,16 +4155,16 @@
       "karbohidrat": 81.3
     },
     {
-      "nama": "Kerupuk Udang",
-      "gram": "1 keping",
+      "nama": "Kerupuk Udang (1 Keping)",
+      "gram": "0g",
       "kalori": 35,
       "protein": 0.43,
       "lemak": 2.29,
       "karbohidrat": 3.29
     },
     {
-      "nama": "Kerupuk udang goreng",
-      "gram": "1 keping",
+      "nama": "Kerupuk udang goreng (1 Keping)",
+      "gram": "0g",
       "kalori": 50,
       "protein": 0,
       "lemak": 2,
